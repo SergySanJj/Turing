@@ -1,0 +1,117 @@
+0 1 A O I * #
+8
+
+0
+A R 3
+I L 1
+O L 1
+I L 1
+0 N 1
+0 R 6
+0 R 7
+0 R 8
+
+1
+A R 2
+O R 4
+I L 1
+I R 4
+1 N 1
+1 R 6
+1 R 7
+1 R 8
+
+A
+A L 1
+A R 2
+A R 3
+A N 4
+A N 1
+A N 6
+* R 7
+* R 8
+
+O 
+O L 1
+O R 2
+O R 3
+I L 1
+O N 1
+O N 6
+0 R 7
+0 R 8
+
+I
+I L 1
+I R 2
+I R 3
+O R 4
+I N 1
+I N 6
+1 R 7
+1 R 8
+
+*
+* L 5
+* R 2
+* R 3
+I L 1
+* R 7
+* L 1
+* R 8
+* N 0
+
+#
+0 0 0 1 1 * 0 0 1 1 0 #
+
+
+
+
+
+without fixing:
+0 1 A O I * #
+5
+
+0
+A R 3
+I L 1
+O L 1
+I L 1
+0 N 1
+
+1
+A R 2
+O R 4
+I L 1
+I R 4
+1 N 1
+
+A
+A L 1
+A R 2
+A R 3
+A N 4
+A N 1
+
+O 
+O L 1
+O R 2
+O R 3
+I L 1
+O N 1
+
+I
+I L 1
+I R 2
+I R 3
+O R 4
+I N 1
+
+*
+* L 5
+* R 2
+* R 3
+I L 1
+* N 0
+#
+0 0 1 0 1 * 0 1 0 1 0 #
